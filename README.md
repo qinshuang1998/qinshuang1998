@@ -4,11 +4,11 @@
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:1378860132@qq.com)](mailto:1378860132@qq.com)
 [![Bilibili Badge](https://img.shields.io/badge/-BiliBili-D14970?style=flat-square&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/20626204)](https://space.bilibili.com/20626204)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=yaronzz)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=qinshuang1998)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=qinshuang1998&show_icons=true&hide_border=true&count_private=true&include_all_commits=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=qinshuang1998&show_icons=true&hide_border=true&count_private=true&include_all_commits=true">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qinshuang1998&layout=compact&hide=javascript,html,css" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qinshuang1998&layout=compact&hide_border=true&hide=javascript,html,css" />
 
 ## 🧐 About
 
