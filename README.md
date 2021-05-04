@@ -6,9 +6,7 @@
 [![Bilibili Badge](https://img.shields.io/badge/-BiliBili-D14970?style=flat-square&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/20626204)](https://space.bilibili.com/20626204)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=qinshuang1998)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=qinshuang1998&show_icons=true&hide_border=true&count_private=true&include_all_commits=true">
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qinshuang1998&layout=compact&hide_border=true&hide=javascript,html,css" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=qinshuang1998&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
 ## 🧐 About
 
@@ -27,3 +25,5 @@
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
     </div>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qinshuang1998&layout=compact&hide_border=true&hide=javascript,html,css" />
