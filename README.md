@@ -6,6 +6,8 @@
 [![Bilibili Badge](https://img.shields.io/badge/-BiliBili-D14970?style=flat-square&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/20626204)](https://space.bilibili.com/20626204)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=qinshuang1998)
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qinshuang1998&hide_border=true&layout=compact&hide=javascript,html,css" />
+
 ## 🧐 About
 
 - 👨‍💻 My blog: https://qinshuang1998.github.io
@@ -25,6 +27,3 @@
     </div>
 
 ---
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=qinshuang1998&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qinshuang1998&hide_border=true&layout=compact&hide=javascript,html,css" />
