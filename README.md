@@ -26,6 +26,5 @@
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qinshuang1998&hide_border=true&layout=compact&hide=javascript,html,css" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=qinshuang1998&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=qinshuang1998&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qinshuang1998&hide_border=true&layout=compact&hide=javascript,html,css" />
