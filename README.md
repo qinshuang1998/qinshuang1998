@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-I'm [Shawn](https://github.com/qinshuang1998)! I'm a software engineer 👨‍💻 who is like music, street and unknown things.
+I'm [a1sync](https://github.com/qinshuang1998)! software engineer 👨‍💻 who is like music, street and unknown things.
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:1378860132@qq.com)](mailto:1378860132@qq.com)
 [![Bilibili Badge](https://img.shields.io/badge/-BiliBili-D14970?style=flat-square&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/20626204)](https://space.bilibili.com/20626204)
