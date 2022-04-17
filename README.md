@@ -2,7 +2,7 @@
 
 I'm [a1sync](https://github.com/qinshuang1998)! software engineer 👨‍💻 who is like music, street and unknown things.
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:1378860132@qq.com)](mailto:1378860132@qq.com)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:a1sync@proton.me)](mailto:a1sync@proton.me)
 [![Bilibili Badge](https://img.shields.io/badge/-BiliBili-D14970?style=flat-square&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/20626204)](https://space.bilibili.com/20626204)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=qinshuang1998)
 
@@ -11,7 +11,7 @@ I'm [a1sync](https://github.com/qinshuang1998)! software engineer 👨‍💻 wh
 ## 🧐 About
 
 - 👨‍💻 My blog: https://qinshuang1998.github.io
-- 📫 How to reach me: 1378860132@qq.com
+- 📫 How to reach me: a1sync@proton.me
 - 🌱 Languages and Tools: 
 
     <div>
